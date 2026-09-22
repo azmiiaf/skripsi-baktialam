@@ -33,39 +33,6 @@ Sistem manajemen Bank Sampah berbasis web dengan React JS dan LocalStorage. Apli
 | Oli | liter | Rp 2.500 |
 | Minyak Jelantah | liter | Rp 3.500 |
 
-## 🚀 Instalasi & Menjalankan
-
-### Prerequisites
-- Node.js (v16 atau lebih baru)
-- npm atau yarn
-
-### Install Dependencies
-```bash
-npm install
-```
-
-### Menjalankan Development Server
-```bash
-npm run dev
-```
-
-Aplikasi akan berjalan di `http://localhost:5173`
-
-### Build untuk Production
-```bash
-npm run build
-```
-
-## 🔐 Login Credentials
-
-### Admin
-- Username: `admin`
-- Password: `admin123`
-
-### User Demo
-- Username: `user1` | Password: `user123` (Budi Santoso)
-- Username: `user2` | Password: `user123` (Siti Aminah)
-
 ## 📊 Algoritma VIKOR
 
 ### Apa itu VIKOR?
