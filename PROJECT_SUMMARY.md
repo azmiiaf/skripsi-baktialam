@@ -295,35 +295,7 @@ Jika ada pertanyaan atau kendala:
 ✅ Real-time features
 ✅ Print-ready reports
 
----
 
-**SELAMAT! Aplikasi Bank Sampah siap digunakan! 🌱♻️🎉**
-
-Developed with ❤️ and ♻️ by Antigravity AI
-
----
-
-## 📦 Package Info
-
-```json
-{
-  "name": "banksampah",
-  "version": "1.0.0",
-  "dependencies": {
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "recharts": "^2.x",
-    "lucide-react": "latest",
-    "react-router-dom": "latest"
-  },
-  "devDependencies": {
-    "vite": "^7.2.4",
-    "@vitejs/plugin-react": "^5.1.1"
-  }
-}
-```
-
----
 
 **Last Updated**: January 20, 2026
 **Status**: ✅ PRODUCTION READY
